@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f71e5c81-4de2-4ab8-9f92-2d67c746fb35" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/underscore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="underscore.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/underscore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="76">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -52,6 +51,7 @@
         <option value="$PROJECT_DIR$/views/module.js" />
         <option value="$PROJECT_DIR$/module.js" />
         <option value="$PROJECT_DIR$/pretty.js" />
+        <option value="$PROJECT_DIR$/underscore.js" />
       </list>
     </option>
   </component>
@@ -104,17 +104,6 @@
               <item name="NodeJS_Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="Server_Side_Javascript" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NodeJS_Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Server_Side_Javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeJS_Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Server_Side_Javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="underscore" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.pretty.js">
+  <component name="RunManager" selected="Node.js.underscore.js">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -170,6 +159,7 @@
     <configuration name="Webserver.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Webserver.js" working-dir="$PROJECT_DIR$" />
     <configuration name="module.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="module.js" working-dir="$PROJECT_DIR$" />
     <configuration name="pretty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="pretty.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="underscore.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="underscore.js" working-dir="$PROJECT_DIR$" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -198,9 +188,11 @@
       <item itemvalue="Node.js.Hello.js" />
       <item itemvalue="Node.js.module.js" />
       <item itemvalue="Node.js.pretty.js" />
+      <item itemvalue="Node.js.underscore.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.underscore.js" />
         <item itemvalue="Node.js.pretty.js" />
         <item itemvalue="Node.js.module.js" />
         <item itemvalue="Node.js.Webserver.js" />
@@ -220,12 +212,12 @@
       <updated>1532715992047</updated>
       <workItem from="1532716034301" duration="5079000" />
       <workItem from="1532793451452" duration="193000" />
-      <workItem from="1532793699885" duration="5708000" />
+      <workItem from="1532793699885" duration="6897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10980000" />
+    <option name="totallyTimeSpent" value="12169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="253" y="0" width="1193" height="1047" extended-state="0" />
@@ -346,6 +338,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/underscore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
