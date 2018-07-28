@@ -12,6 +12,20 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "npm": "^6.3.0-next.0",
-    "pug": "2.0.0-beta11"
-  }
+    "pug": "2.0.0-beta11",
+    "underscore": "^1.9.1"
+  },
+  "description": "Server side javascript tutorials",
+  "main": "Hello.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogito1016/NodeJS_Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cogito1016/NodeJS_Tutorial/issues"
+  },
+  "homepage": "https://github.com/cogito1016/NodeJS_Tutorial#readme"
 }
