@@ -8,9 +8,13 @@ var data =  fs.readFileSync('data.txt',{encoding:'utf8'});
 console.log(data);
 
 //Async
+//(1)
 console.log(2)
-//익명함수가 들어감(3번째 파라미터)
+//(2)
 fs.readFile('data.txt',{encoding:'utf8'}, function(err,data){
+    //(4)
+    console.log(3);
     console.log(data);
 });
-
+//(3)
+console.log(4);
