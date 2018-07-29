@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71e5c81-4de2-4ab8-9f92-2d67c746fb35" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/underscore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f71e5c81-4de2-4ab8-9f92-2d67c746fb35" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="underscore.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="underscore.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/underscore.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sync_async.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sync_async.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -52,6 +67,8 @@
         <option value="$PROJECT_DIR$/module.js" />
         <option value="$PROJECT_DIR$/pretty.js" />
         <option value="$PROJECT_DIR$/underscore.js" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/sync_async.js" />
       </list>
     </option>
   </component>
@@ -83,7 +100,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="253" />
+    <option name="x" value="610" />
+    <option name="y" value="11" />
     <option name="width" value="1193" />
     <option name="height" value="1047" />
   </component>
@@ -135,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.underscore.js">
+  <component name="RunManager" selected="Node.js.sync_async.js">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -155,10 +173,10 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Hello.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Hello.js" working-dir="$PROJECT_DIR$" />
     <configuration name="Webserver.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Webserver.js" working-dir="$PROJECT_DIR$" />
     <configuration name="module.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="module.js" working-dir="$PROJECT_DIR$" />
     <configuration name="pretty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="pretty.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="sync_async.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="sync_async.js" working-dir="$PROJECT_DIR$" />
     <configuration name="underscore.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="underscore.js" working-dir="$PROJECT_DIR$" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -185,18 +203,18 @@
     <list>
       <item itemvalue="Node.js.bin\www" />
       <item itemvalue="Node.js.Webserver.js" />
-      <item itemvalue="Node.js.Hello.js" />
       <item itemvalue="Node.js.module.js" />
       <item itemvalue="Node.js.pretty.js" />
       <item itemvalue="Node.js.underscore.js" />
+      <item itemvalue="Node.js.sync_async.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.sync_async.js" />
         <item itemvalue="Node.js.underscore.js" />
         <item itemvalue="Node.js.pretty.js" />
         <item itemvalue="Node.js.module.js" />
         <item itemvalue="Node.js.Webserver.js" />
-        <item itemvalue="Node.js.Hello.js" />
       </list>
     </recent_temporary>
   </component>
@@ -212,15 +230,15 @@
       <updated>1532715992047</updated>
       <workItem from="1532716034301" duration="5079000" />
       <workItem from="1532793451452" duration="193000" />
-      <workItem from="1532793699885" duration="6897000" />
+      <workItem from="1532793699885" duration="8055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12169000" />
+    <option name="totallyTimeSpent" value="13327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="0" width="1193" height="1047" extended-state="0" />
+    <frame x="610" y="11" width="1193" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -232,12 +250,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26530612" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26530612" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20985557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20985557" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,6 +363,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
